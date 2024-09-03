@@ -31,7 +31,7 @@ body {
    background-color: white;
   width: 46%;
  
-  box-shadow: 1px 1px 5px rgb(0, 0, 0, 0.7);
+  box-shadow: 1px 1px 1px rgb(0, 0, 0, 0.7);
   border-radius: 10px;
   overflow: hidden;
   max-width: 600px;
@@ -57,7 +57,7 @@ form {
 .perfume {
   @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
-  /* margin-bottom: 10px; */
+  
   letter-spacing: 5px;
   color: gray;
   font-size: 12px;
@@ -65,7 +65,7 @@ form {
   font-optical-sizing: auto;
   font-weight: 600;
   font-style: normal;
-  /* margin-top: 20px; */
+  
   margin-bottom: 20px;
 
 }
@@ -73,16 +73,17 @@ form {
 h1{
     font-weight: 700;
     line-height: 35px;
-    font-size: 35px;
+    font-size: 32px;
     margin-bottom: 20px;
+    color:#323339;
     
 }
 .mini-para{
-  /* margin-bottom: 30px; */
+  
   @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
-  /* margin-bottom: 10px; */
-  /* letter-spacing: 5px; */
+  
+  
   color: gray;
   font-size: 16px;
   font-family: "Montserrat", sans-serif;
@@ -96,7 +97,7 @@ h1{
 span{
 
     color: gray;
-    /* margin-bottom: 20px; */
+    
     
 }
 
@@ -117,7 +118,7 @@ span{
 }
 
 .cost-span{
-    /* margin-top: 20px; */
+    margin-top: 5px;
     text-decoration: line-through;
     
 }
