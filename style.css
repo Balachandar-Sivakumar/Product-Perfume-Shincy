@@ -29,7 +29,8 @@ body {
   display: flex;
   justify-content: space-between;
    background-color: white;
-  width: 46%;
+  width: 43%;
+  height: 72%;
  
   box-shadow: 1px 1px 5px rgb(0, 0, 0, 0.7);
   border-radius: 25px;
@@ -62,14 +63,14 @@ form {
   font-optical-sizing: auto;
   font-weight: 1000;
   font-style: normal;
-  margin-top: 20px;
+  /* margin-top: 20px; */
   margin-bottom: 20px;
 
 }
 
 h1{
     font-weight: 700;
-    line-height: 40px;
+    line-height: 33px;
     font-size: 35px;
     margin-bottom: 20px;
     
