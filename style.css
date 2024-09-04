@@ -47,7 +47,7 @@ body {
 
 form {
   width: 80%;
-  padding: 25px;
+  padding: 30px;
   
 }
 .box1{
@@ -63,9 +63,9 @@ form {
   font-size: 12px;
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 600;
+  font-weight: 400;
   font-style: normal;
-  
+  margin-top: 10px;
   margin-bottom: 20px;
 
 }
@@ -113,7 +113,7 @@ span{
 }
 
 .span-tag{
-    margin-top: 26px;
+    margin-top: 21px;
     margin-bottom: 10px;
     
 }
@@ -133,7 +133,7 @@ button{
     gap: 10px;
     color: white;
     font-weight: 700;
-    margin-top: 9px;
+    margin-top: 11px;
     display: flex;
     justify-content: center;
     
