@@ -46,8 +46,9 @@ body {
 }
 
 form {
-  width: 80%;
+  width: 90%;
   padding: 30px;
+  height: 100%;
   
 }
 .box1{
@@ -73,10 +74,15 @@ form {
 h1{
     font-weight: 700;
     line-height: 32px;
-    font-size: 33px;
+    font-size: 34px;
     margin-bottom: 20px;
     color:#323339;
     
+}
+
+.cart-img{
+  height: 15px;
+  width: 15px
 }
 .mini-para{
   
@@ -90,8 +96,8 @@ h1{
   font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
-  line-height: 26px;
-  font-size: 17px;
+  line-height: 11px;
+  font-size: 16px;
   
 }
 span{
@@ -104,7 +110,7 @@ span{
 .cost{
     display: flex;
     gap: 20px;
-    margin-top:  15px; ;
+    margin-top:  16px; ;
 }
 
 .cost-color{
